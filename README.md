@@ -4,8 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-donato/)
 [![GoogleDrive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1uBPnFM3K4XlbT8Fk2zTePTYzhq8lDG-C?usp=sharing)
 
-![robertocien07 GitHub stats](https://github-readme-stats.vercel.app/api?username=robertocien07&show_icons=true&theme=cobalt)
-
+![Roberto Donato GitHub stats](https://github-readme-stats.vercel.app/api?username=Robertocien07&count_private=true)
 ## Tecnologias 
 <div style= "Display: inline_block"><br/>
 <img aling="center" alt="Python"src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white " />
