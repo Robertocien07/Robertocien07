@@ -1,5 +1,5 @@
 ### Olá eu sou Roberto Donato 🖖
-### Ciencias da computação 🖥️...
+### Graduação : Ciências da computação, Pos em andamento Desenvolvimento Mobile 📲
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-donato/)
 [![GoogleDrive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1uBPnFM3K4XlbT8Fk2zTePTYzhq8lDG-C?usp=sharing)
